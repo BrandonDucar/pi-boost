@@ -4,6 +4,9 @@ import { VitePWA } from 'vite-plugin-pwa'
 import path from 'path'
 
 export default defineConfig({
+  // Use /pi-boost/ base on GitHub Pages, / everywhere else
+  base: process.env.GITHUB_ACTIONS ? '/pi-boost/' : '/',
+
   plugins: [
     react(),
     VitePWA({
