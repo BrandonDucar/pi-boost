@@ -79,3 +79,11 @@ Add `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` as Vercel environment varia
 ## ⚠️ Disclaimer
 
 Pi Boost is an independent third-party companion app. It is not affiliated with Pi Network or SocialChain, Inc. Mining data is simulated. Pi prices are illustrative only.
+
+## License
+
+Original DreamNet project contributions are licensed under [Apache-2.0](LICENSE).
+See [LICENSE_SCOPE.md](LICENSE_SCOPE.md) and [NOTICE](NOTICE) for the retained
+third-party attribution and exclusions for branding, external content, and media.
+The software license does not imply Pi Network affiliation or authorize reuse of
+its branding.
