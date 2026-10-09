@@ -4,7 +4,11 @@
 
 ## 🚀 Live App
 
-Deployed at: _[add your URL after deploy]_
+[Project homepage](https://brandonducar.github.io/BrandonDucar/projects/pi-boost/)
+
+This is a local prototype, not a verified hosted mining service. Mining data is
+simulated and prices are illustrative. The feature list below describes the
+prototype interface, not a connection to Pi Network mining or a live exchange.
 
 ## ✨ Features
 
@@ -31,7 +35,7 @@ Deployed at: _[add your URL after deploy]_
 ## 🏁 Getting Started
 
 ```bash
-git clone <repo>
+git clone https://github.com/BrandonDucar/pi-boost.git
 cd pi-boost
 npm install
 cp .env.example .env
